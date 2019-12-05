@@ -1,0 +1,20 @@
+#pamiętniczek {
+    color: #fefe
+}
+
+.mainHeader {
+    color: rgb(112, 52, 8);
+    background: yellow
+}
+
+body {
+    background: rgb(255, 178, 191)
+}
+
+.sectionHeader {
+    color: rgba(224, 24, 24, 0.933)
+}
+
+p {
+    color: black;
+}

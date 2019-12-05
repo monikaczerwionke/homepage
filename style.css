@@ -1,0 +1,21 @@
+body {
+    background: #7a2323;
+}
+
+.mainHeader {
+    color: tomato;
+}
+
+.sectionHeader {
+    color: tomato;
+    background: black;
+    font-size: 65 px;
+}
+
+p {
+    color: darkblue;
+}
+
+#pamiętniczek {
+    background: hotpink;
+}
