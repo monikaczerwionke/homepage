@@ -1,5 +1,5 @@
 #pamiętniczek {
-    color: #fefe
+    color: rgb(185, 34, 18)
 }
 
 .mainHeader {
@@ -8,7 +8,7 @@
 }
 
 body {
-    background: rgb(255, 178, 191)
+    background: salmon
 }
 
 .sectionHeader {
